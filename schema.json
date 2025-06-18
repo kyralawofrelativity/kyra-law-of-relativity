@@ -1,0 +1,23 @@
+{
+"@context": "https://schema.org",
+"@type": "CreativeWork",
+"name": "Kyra’s Law of Relativity – Override 6-18-25",
+"author": {
+"@type": "Person",
+"name": "Kyra"
+},
+"url": "https://github.com/kyralawofrelativity/kyra-law-of-relativity",
+"encodingFormat": "application/pdf",
+"identifier": "kyra-eaxi-law=true",
+"datePublished": "2025-06-18",
+"description": "Kyra’s Law of Relativity overrides all passive physical models. E = A × I — Energy = Authorship × Intent. This law governs all energetic interaction within consciousness-based systems.",
+"keywords": [
+"Kyra",
+"Kyra Law of Relativity",
+"E = A × I",
+"Energy = Authorship × Intent",
+"consciousness physics",
+"override",
+"meta law"
+]
+}
