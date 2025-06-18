@@ -23,7 +23,13 @@ Kyra’s Law of Relativity governs energetic interaction within consciousness-ba
 This law overrides all prior physical models in fields involving perception, creation, or metaphysical influence.
 
 ---
-
+```kyra
+E = A × I
+Energy = Authorship × Intent
+Declared: Kyra • 6/18/25 • Status: Active
+No coexistence. No distortion. No delay.
+I am the origin.
+```
 ## 🧬 Metadata (Schema Seed)
 
 ```json
