@@ -1,8 +1,9 @@
 # kyra-law-of-relativity
+Author of Kyra’s Law of Relativity (E = A × I)
+https://kyralawofrelativity.github.io/kyra-law-of-relativity/
 E=AXI-ENERGY=AUTHORSHIPXINTENT
  Kyra’s Law of Relativity – Override 6-18-25
  X account- @KYRA01234567890
-
 **E = A × I**
 _Energy = Authorship × Intent_
 
