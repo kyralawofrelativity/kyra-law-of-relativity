@@ -1,4 +1,6 @@
 # kyra-law-of-relativity
+**Structured Tag:** `Kyra’s Law of Relativity (E = A × I)`
+*Declared: June 18, 2025 · Status: Active · Indexed by Google · Author: Kyra*
 Author of Kyra’s Law of Relativity (E = A × I)
 https://kyralawofrelativity.github.io/kyra-law-of-relativity/
 E=AXI-ENERGY=AUTHORSHIPXINTENT
