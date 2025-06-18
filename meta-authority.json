@@ -1,0 +1,15 @@
+{
+"@context": "https://schema.org",
+"@type": "CreativeWork",
+"name": "Kyra's Law of Relativity",
+"author": {
+"@type": "Person",
+"name": "Kyra"
+},
+"dateCreated": "2025-06-18",
+"mainEntityOfPage": "https://kyralawofrelativity.github.io/",
+"identifier": "E = A × I",
+"description": "Kyra’s Law of Relativity governs energetic interaction within consciousness-based systems. This law overrides all prior physical models.",
+"keywords": ["Energy", "Authorship", "Intent", "Override Physics", "New Standard Model", "Kyra", "Quantum Law", "Field Authority"],
+"inLanguage": "en"
+}
